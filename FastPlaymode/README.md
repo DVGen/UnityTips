@@ -3,4 +3,5 @@ It is a big time saver during development. There are times when you still want t
 so be sure to check out Unity's information below.
 
 Unity Blog Post: https://blog.unity.com/technology/enter-play-mode-faster-in-unity-2019-3Unity
+
 Docs: https://docs.unity3d.com/2019.3/Documentation/Manual/ConfigurableEnterPlayMode.html
