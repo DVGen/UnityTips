@@ -1,4 +1,4 @@
-# UnityTips
+# Fast Play Mode
 Want to enter play mode faster in Unity? Starting with Unity 2019.3, you can disable a few options to enter play mode almost immediately. 
 It is a big time saver during development. There are times when you still want to use the standard Domain Reload and Scene Reload options, 
 so be sure to check out Unity's information below.
